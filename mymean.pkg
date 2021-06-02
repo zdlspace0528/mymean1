@@ -1,0 +1,6 @@
+v 1.0 
+d mymean: generate and display the average value of variables.
+d Allows for “by” and returns a matrix with all results. 
+d Program by Alexander C. Lembcke 
+f mymean.ado
+f mymean.sthlp 
