@@ -1,0 +1,5 @@
+v 1.0 
+d Programs accompanying the course in advanced Stata methods 
+d mymean: Generate and display the average value of variables. 
+d Author: Alexander C. Lembcke 
+p mymean 
